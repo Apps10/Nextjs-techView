@@ -6,8 +6,7 @@ import Link from "next/link"
 import React from "react"
 import { TypeAnimation } from "react-type-animation"
 
-export default function HeroBlock() {
-  console.log(Infinity)
+export  function HeroBlock() {
   return (
     <section className="flex min-h-screen flex-col items-center justify-center text-center">
       <div className="container mx-auto px-4 py-20">
